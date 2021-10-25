@@ -1,0 +1,57 @@
+body{  
+    background-image:  url("../images/Controller.mp4");
+    background-size: cover;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.social {
+    margin: 0 auto;
+    width: 300px;
+    background-color: rgb(244, 248, 0);
+    color: rgb(10, 0, 0);
+
+}
+
+.jogosmod {
+  
+    width: 300px;
+    background-color: rgb(244, 248, 0);
+    color: rgb(10, 0, 0);
+
+}
+
+.container {   
+    max-width: 600px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.container-social {
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.container-portal {
+    width: 200px;
+    height: 300px;
+    float: right;
+   display: flex;
+}
+
+
+.item {
+    margin: 10px;
+    text-align: center;    
+    flex: 1;
+}
+
+.flex-wrap {
+   flex-wrap: wrap;
+}
+
+.flex {
+    display: flex;
+}
